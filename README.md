@@ -1,8 +1,5 @@
 # Country-Informer-Using-API
 
-link
-http://127.0.0.1:3000/index.html
-
 #SCREENSHOTS
 
 ![Screenshot 2023-12-24 214000](https://github.com/AyushMaharwade/Country-Informer-Using-API/assets/151525499/954b8c6d-8ac5-4451-834f-29a3cc92a038)
